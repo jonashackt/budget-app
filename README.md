@@ -67,6 +67,12 @@ https://moneycoach.ai/moneyspaces
 https://budgetbakers.com/what-is-wallet/
 
 
+### Aspire Budget
+
+Google Spreadsheet based Addon
+
+https://aspirebudget.com/
+
 
 
 ## German multi-user shared budget manager
@@ -76,6 +82,16 @@ https://budgetbakers.com/what-is-wallet/
 https://outbankapp.com/features/
 
 - really bad reviews for Android especially
+
+
+### fibunu
+
+https://fibunu.com/
+
+
+### 1Money
+
+https://www.1moneyapp.com/
 
 
 # Links
@@ -89,3 +105,8 @@ https://eringobler.com/budgeting-apps-for-couples/
 https://www.askzeta.com/magazine/articles/zeta-personal-finance-for-couples/
 
 https://financer.de/persoenliche-finanzen/artikel/haushaltsbuch-app/
+
+https://www.reddit.com/r/Finanzen/comments/1415m9g/gute_haushaltsbuch_app_f%C3%BCr_paar/
+
+
+
