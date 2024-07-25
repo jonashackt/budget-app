@@ -1,7 +1,7 @@
 # budget-app
 I want to have a budget app, what's on the market?
 
-
+Why not build a system myself? Read this: https://actualbudget.com/open-source
 
 # One-user only Finance apps
 
@@ -92,6 +92,40 @@ https://fibunu.com/
 ### 1Money
 
 https://www.1moneyapp.com/
+
+
+
+## OpenSource self-hosted multi-user
+
+https://www.reddit.com/r/selfhosted/comments/1ai7gg9/selfhosting_financial_software_for_multiuser/
+
+https://github.com/awesome-selfhosted/awesome-selfhosted#money-budgeting--management
+
+### MoneyManagerEx
+
+https://moneymanagerex.org/
+
+
+### Firefly III
+
+https://firefly-iii.org/
+
+https://github.com/firefly-iii/firefly-iii
+
++ 15.000 GitHub Stars! and active
++ great docs: https://docs.firefly-iii.org/?mtm_campaign=firefly-iii-org&mtm_kwd=bottom-link
+
+Wow, there's even a demo https://demo.firefly-iii.org/login
+
+
+### Actual
+
+https://actualbudget.com/
+
+https://github.com/actualbudget/actual
+
++ 
+
 
 
 # Links
